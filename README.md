@@ -2,13 +2,31 @@
 My works in JishuuPro - A small project for 3rd students in Department of Mechano-Informatics, The University of Tokyo
 
 ## Images
-Here are some images from my works
-![Sketch](https://raw.githubusercontent.com/epsilonkei/JishuuPro/master/images/sketch.jpg)
-![CAD Design](https://raw.githubusercontent.com/epsilonkei/JishuuPro/master/images/CAD.png)
-![Solenoid](https://raw.githubusercontent.com/epsilonkei/JishuuPro/master/images/Solenoid.jpg)
-![Circuit](https://raw.githubusercontent.com/epsilonkei/JishuuPro/master/images/Circuit.jpg)
-![Machine Overview](https://raw.githubusercontent.com/epsilonkei/JishuuPro/master/images/Machine_overview.jpg)
-![Snapshot from demo](https://raw.githubusercontent.com/epsilonkei/JishuuPro/master/images/Snapshot_from_demo.png)
+Here are some images from my work
+
+### Sketch and CAD data
+<p float="left">
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Sketch.jpg" alt="Sketch" 
+  width="whatever" height=400>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/CAD.png" alt="CAD_design" 
+  width="whatever" height=400>
+</p>
+
+### Solenoid and Circuit
+<p float="left">
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Solenoid.jpg" alt="Solenoid" 
+  width="whatever" height=520>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Circuit.jpg" alt="Circuit" 
+  width="whatever" height=520>
+</p>
+
+### Machine Overview
+<img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Machine_overview.jpg" alt="Machine Overview" 
+  width="whatever" height=580>
+
+### Snapshot from demo
+<img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Snapshot_from_demo.png" alt="Snapshot from demo" 
+  width="whatever" height=450>
 
 ## Demo
 You can see a demo of my project [here](https://www.youtube.com/watch?v=YnBVweda7Wo)
