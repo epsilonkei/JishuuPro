@@ -1,0 +1,7 @@
+a = [1,2,3]
+b = [4,5,6]
+for (i,j) in zip(a,b):
+    print i, j
+
+print [[i, j, 1] for (i,j) in zip(a,b)]
+print [[i, 1] for i in a]
