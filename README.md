@@ -69,3 +69,18 @@ Here are some images from my work
 
 ## Demo
 You can see a demo of my project [here](https://www.youtube.com/watch?v=YnBVweda7Wo)
+
+## Memo for demo 
+* Raspberry Pi need RPi.GPIO for driving motor, solenoid ...
+```
+sudo pip install rpi.gpio
+```
+or
+```
+sudo apt-get install python-rpi.gpio
+```
+* There are a lot of unnecessary and duplicated code in this repository.
+* For running demo, the minimum necessary code are put in ```PazuSolverMachine``` directory
+* Running demo command (probably):
+** In Rasberrry Pi: ```python Machineclient.py```
+** In PC: ```python PCserver.py``` for only one solving step, ```python PCserver.py``` for solving continuously.
