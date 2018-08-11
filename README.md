@@ -1,5 +1,7 @@
 # JishuuPro
-My works in JishuuPro - A small project for 3rd students in Department of Mechano-Informatics, The University of Tokyo
+My works in JishuuPro
+* JishuuPro is a small project for 3rd students in Department of Mechano-Informatics, The University of Tokyo.
+* In this project, I developed a fully automatic arm robot to solving Pazudora([パズドラ](https://ja.wikipedia.org/wiki/パズル%26ドラゴンズ)) - a smartphone game.
 
 ## Images
 Here are some images from my work
@@ -18,6 +20,14 @@ Here are some images from my work
   width="whatever" height=520>
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Circuit.jpg" alt="Circuit" 
   width="whatever" height=520>
+</p>
+
+### Pazudora Solver
+<p float="left">
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz1.gif" 
+  alt="Pazudora quiz 1" width="whatever" height=520>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz2.gif" 
+  alt="Pazudora quiz 2" width="whatever" height=520>
 </p>
 
 ### Machine Overview
