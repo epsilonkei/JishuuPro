@@ -22,6 +22,35 @@ Here are some images from my work
   width="whatever" height=520>
 </p>
 
+### Image Processing with HSV Filter
+#### Full Original Image and Cropped Image
+<p float="left">
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/full_image.jpg" 
+  alt="Full Original Image" width="whatever" height=520>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/cropped_image.jpg" 
+  alt="Cropped Image" width="whatever" height=520>
+</p>
+
+#### HSV Filter result
+<p float="left">
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/red.jpg" 
+  alt="Red Filter" width="whatever" height=320>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/blue.jpg" 
+  alt="Blue Filter" width="whatever" height=320>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/green.jpg" 
+  alt="Green Filter" width="whatever" height=320>
+</p>
+
+<p float="left">
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pink.jpg" 
+  alt="Pink Filter" width="whatever" height=320>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/yellow.jpg" 
+  alt="Yellow Filter" width="whatever" height=320>
+  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/violet.jpg" 
+  alt="Violet Filter" width="whatever" height=320>
+</p>
+
+
 ### Pazudora Solver
 #### Example 1:
 <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz1.gif" 
