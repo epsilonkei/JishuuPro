@@ -26,28 +26,28 @@ Here are some images from my work
 #### Full Original Image and Cropped Image
 <p float="left">
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/full_image.jpg" 
-  alt="Full Original Image" width="whatever" height=520>
+  alt="Full Original Image" width="whatever" height=290>
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/cropped_image.jpg" 
-  alt="Cropped Image" width="whatever" height=520>
+  alt="Cropped Image" width="whatever" height=290>
 </p>
 
 #### HSV Filter result
 <p float="left">
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/red.jpg" 
-  alt="Red Filter" width="whatever" height=320>
+  alt="Red Filter" width="whatever" height=180>
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/blue.jpg" 
-  alt="Blue Filter" width="whatever" height=320>
+  alt="Blue Filter" width="whatever" height=180>
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/green.jpg" 
-  alt="Green Filter" width="whatever" height=320>
+  alt="Green Filter" width="whatever" height=180>
 </p>
 
 <p float="left">
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pink.jpg" 
-  alt="Pink Filter" width="whatever" height=320>
+  alt="Pink Filter" width="whatever" height=180>
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/yellow.jpg" 
-  alt="Yellow Filter" width="whatever" height=320>
+  alt="Yellow Filter" width="whatever" height=180>
   <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/violet.jpg" 
-  alt="Violet Filter" width="whatever" height=320>
+  alt="Violet Filter" width="whatever" height=180>
 </p>
 
 
