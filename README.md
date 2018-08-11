@@ -23,12 +23,12 @@ Here are some images from my work
 </p>
 
 ### Pazudora Solver
-<p float="left">
-  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz1.gif" 
-  alt="Pazudora quiz 1" width="whatever" height=520>
-  <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz2.gif" 
-  alt="Pazudora quiz 2" width="whatever" height=520>
-</p>
+#### Example 1:
+<img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz1.gif" 
+  alt="Pazudora quiz 1" width="whatever" height=320>
+#### Example 2:
+<img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/pazu_quiz2.gif" 
+  alt="Pazudora quiz 2" width="whatever" height=320>
 
 ### Machine Overview
 <img src="https://github.com/epsilonkei/JishuuPro/blob/master/images/Machine_overview.jpg" alt="Machine Overview" 
